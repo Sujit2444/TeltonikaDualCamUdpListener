@@ -1,0 +1,43 @@
+D:\Teltonika\TeltonikaUdpListener\TeltonikaUdpListener\Teltonika.Codec\bin\Release\net45\Teltonika.Codec.dll
+D:\Teltonika\TeltonikaUdpListener\TeltonikaUdpListener\Teltonika.Codec\bin\Release\net45\Teltonika.Codec.pdb
+D:\Teltonika\TeltonikaUdpListener\TeltonikaUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.AssemblyInfoInputs.cache
+D:\Teltonika\TeltonikaUdpListener\TeltonikaUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.AssemblyInfo.cs
+D:\Teltonika\TeltonikaUdpListener\TeltonikaUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.csproj.CoreCompileInputs.cache
+D:\Teltonika\TeltonikaUdpListener\TeltonikaUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.dll
+D:\Teltonika\TeltonikaUdpListener\TeltonikaUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.pdb
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Teltonika.Codec\bin\Release\net45\Teltonika.Codec.dll
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Teltonika.Codec\bin\Release\net45\Teltonika.Codec.pdb
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.csproj.AssemblyReference.cache
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.GeneratedMSBuildEditorConfig.editorconfig
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.AssemblyInfoInputs.cache
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.AssemblyInfo.cs
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.csproj.CoreCompileInputs.cache
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.dll
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.pdb
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Main\Teltonika.Codec\bin\Release\net45\Teltonika.Codec.dll
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Main\Teltonika.Codec\bin\Release\net45\Teltonika.Codec.pdb
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Main\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.csproj.AssemblyReference.cache
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Main\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.GeneratedMSBuildEditorConfig.editorconfig
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Main\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.AssemblyInfoInputs.cache
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Main\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.AssemblyInfo.cs
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Main\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.csproj.CoreCompileInputs.cache
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Main\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.dll
+D:\tyt_vault\TeltonikaUdpNetListener_MultiForwarding\Main\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.pdb
+D:\R&D Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\bin\Release\net45\Teltonika.Codec.dll
+D:\R&D Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\bin\Release\net45\Teltonika.Codec.pdb
+D:\R&D Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.GeneratedMSBuildEditorConfig.editorconfig
+D:\R&D Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.AssemblyInfoInputs.cache
+D:\R&D Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.AssemblyInfo.cs
+D:\R&D Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.csproj.CoreCompileInputs.cache
+D:\R&D Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.dll
+D:\R&D Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.pdb
+D:\R&D Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.csproj.AssemblyReference.cache
+D:\RD Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\bin\Release\net45\Teltonika.Codec.dll
+D:\RD Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\bin\Release\net45\Teltonika.Codec.pdb
+D:\RD Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.csproj.AssemblyReference.cache
+D:\RD Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.GeneratedMSBuildEditorConfig.editorconfig
+D:\RD Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.AssemblyInfoInputs.cache
+D:\RD Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.AssemblyInfo.cs
+D:\RD Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.csproj.CoreCompileInputs.cache
+D:\RD Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.dll
+D:\RD Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\obj\Release\net45\Teltonika.Codec.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Teltonika.Codec
+build_property.ProjectDir = D:\RD Projects\Teltonika Dual Cam\projects\TeltonikaDualCamUdpListener\Teltonika.Codec\

@@ -1,0 +1,7 @@
+D:\pv\ATrackUdpListener\ATrackUdpListener\Teltonika.Codec\bin\Debug\net452\Teltonika.Codec.dll
+D:\pv\ATrackUdpListener\ATrackUdpListener\Teltonika.Codec\bin\Debug\net452\Teltonika.Codec.pdb
+D:\pv\ATrackUdpListener\ATrackUdpListener\Teltonika.Codec\obj\Debug\net452\Teltonika.Codec.AssemblyInfoInputs.cache
+D:\pv\ATrackUdpListener\ATrackUdpListener\Teltonika.Codec\obj\Debug\net452\Teltonika.Codec.AssemblyInfo.cs
+D:\pv\ATrackUdpListener\ATrackUdpListener\Teltonika.Codec\obj\Debug\net452\Teltonika.Codec.csproj.CoreCompileInputs.cache
+D:\pv\ATrackUdpListener\ATrackUdpListener\Teltonika.Codec\obj\Debug\net452\Teltonika.Codec.dll
+D:\pv\ATrackUdpListener\ATrackUdpListener\Teltonika.Codec\obj\Debug\net452\Teltonika.Codec.pdb
